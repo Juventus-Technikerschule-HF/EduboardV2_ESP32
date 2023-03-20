@@ -488,6 +488,10 @@
     [
       "83d3690c-6ff2-4209-82b8-d055572b14ab",
       "DebugChip FT2232HL"
+    ],
+    [
+      "1f4baa08-d392-4806-ae2d-0217d8396296",
+      "PortExpander"
     ]
   ],
   "text_variables": {}
