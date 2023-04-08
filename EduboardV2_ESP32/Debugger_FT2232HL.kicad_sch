@@ -2580,7 +2580,7 @@
     (uuid fefabdc5-12bb-4257-91c9-1356ba0810d1)
   )
 
-  (text_box "A Connection to the Baseboard will pull 3.3V_Sense to 3.3V and unlinke the P-Channel Mosfet to prevent multiple 3.3V sources fighting eachother"
+  (text_box "A Connection to the Baseboard will pull 3.3V_Sense to 3.3V and unlink the P-Channel Mosfet to prevent multiple 3.3V sources fighting eachother"
     (at 80.645 167.005 0) (size 21.59 18.415)
     (stroke (width 0) (type default))
     (fill (type none))
@@ -5107,10 +5107,10 @@
     (property "JLCPCB Part #" "C167321" (at 48.26 45.085 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d89))
-    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d89))
-    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d89))
-    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d89))
+    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d8c))
+    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d8c))
+    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d8c))
+    (pin "0" (uuid c457fad9-8ea2-475f-a9fe-4ebccab52d8c))
     (pin "A1" (uuid 816d2de7-9689-446c-8c6a-969f1746736e))
     (pin "A12" (uuid 3f313fd9-4b40-48b3-a766-9aad77f357dd))
     (pin "A4" (uuid 177a89a3-917d-4524-ad37-671250933a2f))
