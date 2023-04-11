@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "EduboardV2_kicadlib")(type "KiCad")(uri "/home/mburger/projects/EduboardV2_kicadlib/EduboardV2_kicadlib.kicad_sym")(options "")(descr ""))
+  (lib (name "EduboardV2_Kicadlib")(type "KiCad")(uri "${EduboardV2_kicadlib}/EduboardV2_kicadlib.kicad_sym")(options "")(descr ""))
 )
