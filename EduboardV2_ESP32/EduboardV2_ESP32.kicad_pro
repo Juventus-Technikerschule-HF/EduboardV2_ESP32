@@ -459,7 +459,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "EduboardV2_ESP32.step",
-      "vrml": ""
+      "vrml": "EduboardV2_ESP32.wrl"
     },
     "page_layout_descr_file": ""
   },
